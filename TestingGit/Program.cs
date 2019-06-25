@@ -11,6 +11,7 @@ namespace TestingGit
         static void Main(string[] args)
         {
             //project init
+            // add some thing new
         }
     }
 }
